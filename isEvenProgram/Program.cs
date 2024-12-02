@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            int num = 4;
+            int num = 2;
             Console.WriteLine(IsEven(num));
         }
 
